@@ -313,3 +313,4 @@ main > section { padding-block: var(--sec-y); position: relative; }
 .field .btn--line { background: var(--white); }
 .field .btn--line:hover { background: var(--ink); color: #fff; border-color: var(--ink); }
 .close__risk { margin: 16px 0 0; font-size: .9375rem; color: var(--c-text-muted); }
+.qa summary:focus-visible { outline: 2px solid var(--blue); outline-offset: 4px; border-radius: 4px; }
