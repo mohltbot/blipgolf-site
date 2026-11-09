@@ -56,7 +56,7 @@
 
 <link rel="preload" href="assets/fonts/barlow-semi-condensed-800.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="assets/fonts/atkinson-next.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="styles.css?v=10">
+<link rel="stylesheet" href="styles.css?v=11">
 <script>document.documentElement.classList.add('js','mo-js','m-enter');setTimeout(function(){document.documentElement.classList.add('mo-safe')},2500)</script>
 <link rel="modulepreload" href="assets/moments/moments.js">
 <link rel="modulepreload" href="assets/moments/lib.js">
@@ -163,9 +163,10 @@
 <main id="main">
 
 <section class="hero field" id="top" aria-labelledby="h1" data-enter>
-  <div class="ball hero__ball" aria-hidden="true"></div>
-  <div class="wrap hero__copy">
-    <h1 id="h1" class="hero__title"><span class="slot"><span>Walk to</span></span> <span class="slot"><span>the dot.</span></span></h1>
+  <div class="field__layer" aria-hidden="true"><div class="ball hero__ball"></div></div>
+  <div class="wrap hero__grid">
+  <div class="hero__copy">
+    <h1 id="h1" class="hero__title"><span class="hero__kicker">Golf ball finder</span> <span class="slot"><span>Walk to</span></span> <span class="slot"><span>the dot.</span></span></h1>
     <p class="tagline"><span>Mark it.</span> <span>Snap it.</span> <span class="tagline__hot">Find it.</span></p>
     <p class="hero__lead">You saw it land, and now you can't find it. Blip is a pen and a MagSafe camera for iPhone that shows your marked ball as a dot on screen.</p>
     <div class="hero__actions">
@@ -173,8 +174,13 @@
       <a class="btn btn--line" href="#early-bird">Email me at launch</a>
     </div>
   </div>
+  <dl class="price" aria-label="Blip pricing">
+    <div class="price__row price__row--hot"><dt>Early bird</dt><dd>$79</dd></div>
+    <div class="price__row"><dt>Early-bird units</dt><dd>First 200</dd></div>
+    <div class="price__row"><dt>Retail</dt><dd>$149</dd></div>
+  </dl>
+  </div>
   <div class="band hero__band" aria-hidden="true"></div>
-  <div class="wrap"><p class="readline">$79 early bird / first 200 units / retail $149</p></div>
 </section>
 
 <section class="ground-ink camera" id="problem" aria-labelledby="problem-h" data-moment="iris-opens" data-moment-opts='{"from":"base"}' style="--p-bg: var(--white)">
@@ -212,22 +218,22 @@
     </div>
     <ol class="steps">
       <li class="step">
-        <span class="step__n" aria-hidden="true">01</span>
+        <span class="step__n" aria-hidden="true">01<svg class="step__i" viewBox="0 0 32 32"><path d="M21.5 4.5l6 6L12 26l-7.5 1.5L6 20z"/><path d="M18 8l6 6"/></svg></span>
         <h3 class="step__t">Mark it</h3>
         <p>Before you tee off, draw your line on the ball with the Blip Pen.</p>
       </li>
       <li class="step">
-        <span class="step__n" aria-hidden="true">02</span>
+        <span class="step__n" aria-hidden="true">02<svg class="step__i" viewBox="0 0 32 32"><rect x="8" y="3" width="16" height="26" rx="3.5"/><circle cx="16" cy="12" r="4"/></svg></span>
         <h3 class="step__t">Snap it</h3>
         <p>Clip Blip Cam to the back of your iPhone and point it where the ball went.</p>
       </li>
       <li class="step">
-        <span class="step__n" aria-hidden="true">03</span>
+        <span class="step__n" aria-hidden="true">03<svg class="step__i" viewBox="0 0 32 32"><circle cx="16" cy="16" r="11"/><circle cx="16" cy="16" r="5"/><path d="M16 2v4M16 26v4M2 16h4M26 16h4"/></svg></span>
         <h3 class="step__t">Find it</h3>
         <p>Blip fires a flash your eyes can't see, waits a split second, then looks. Grass and sunlight stay dark; your mark shows up.</p>
       </li>
       <li class="step step--hot">
-        <span class="step__n" aria-hidden="true">04</span>
+        <span class="step__n" aria-hidden="true">04<svg class="step__i" viewBox="0 0 32 32"><circle cx="16" cy="13" r="4" class="fill"/><path d="M16 29s-9-8.2-9-16a9 9 0 0 1 18 0c0 7.8-9 16-9 16z"/></svg></span>
         <h3 class="step__t">Walk to the dot</h3>
         <p>Follow the dot on your screen to your ball.</p>
       </li>
@@ -355,7 +361,7 @@
 </section>
 
 <section class="close field" id="early-bird" aria-labelledby="close-h">
-  <div class="ball close__ball" aria-hidden="true"></div>
+  <div class="field__layer" aria-hidden="true"><div class="ball close__ball"></div></div>
   <div class="wrap close__grid">
     <div class="close__copy">
       <h2 id="close-h" class="h2 h2--xl">$79 early bird for the first 200 golfers</h2>
