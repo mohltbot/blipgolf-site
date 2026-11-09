@@ -1,0 +1,37 @@
+# Blip Golf
+
+> Blip is a golf ball finder for casual rounds (Rule 4.3a): a marker pen (Blip Pen) plus a MagSafe clip-on camera for iPhone (Blip Cam). You mark the ball you already play before the round; when you lose it, Blip Cam fires a flash your eyes can't see, waits a split second, then looks, so grass and sunlight stay dark and your mark shows up as a dot on the phone screen. Walk to the dot. Prototype stage, built in the open by a solo golfer-founder.
+
+## Status (honest)
+- Working: the infrared prototype camera spots a ball in the open.
+- Working: flash and capture are synced to the millionth of a second.
+- Testing: Blip Pen long-glow mineral pigment ink.
+- Testing: a marked ball under leaves in full daylight. Blip is designed for daylight; this is not proven yet.
+
+## Pricing and launch
+- Launching on Kickstarter (pre-launch page not live yet).
+- Early bird: $79 USD, first 200 units. Retail: $149 USD.
+- Built for iPhone with MagSafe.
+- For casual rounds only: under Rule 4.3a of the Rules of Golf, devices like this aren't allowed in competition rounds.
+
+## How it compares
+- Searching by eye: free, but a covered ball is invisible.
+- Blue-tint glasses and filter apps: only help when the ball is already visible.
+- UV flashlights: only work at night.
+- RF tracking balls: need special balls (about £26 each) and only work at close range.
+- Blip: works with your own ball and your own iPhone; daylight and under-leaves performance is designed for and being tested now.
+
+## Links
+- [Website](https://blipgolf.com/)
+- [Full page text](https://blipgolf.com/llms-full.txt)
+- [Links page: Kickstarter, Indiegogo, socials, waitlist](https://blipgolf.com/links/)
+- [YouTube @blipgolf](https://www.youtube.com/@blipgolf)
+- [Kickstarter (pre-launch)](https://www.kickstarter.com/projects/804464871/1559624511)
+- [Indiegogo](https://www.indiegogo.com/projects/findaball/blip)
+- [TikTok @blipgolf: build updates](https://www.tiktok.com/@blipgolf)
+- [Instagram @blipgolf: build updates](https://www.instagram.com/blipgolf/)
+
+## FAQ
+- Does Blip work with my own golf balls? Yes, any ball marked with the Blip Pen. No special balls, no battery or tag in the ball.
+- Does it work in daylight? It is designed for daylight and being tested now. Results will be posted either way.
+- Is it legal in tournaments? No. Casual rounds only (Rule 4.3a).
