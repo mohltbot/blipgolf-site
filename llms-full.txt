@@ -1,12 +1,12 @@
 # Blip Golf: full page text (blipgolf.com)
 
-> Source: https://blipgolf.com/ . Blip is a golf ball finder from Blip Golf: the Blip Pen marks any ball, and Blip Cam, a MagSafe clip-on camera for iPhone, shows the marked ball as a dot on the phone screen. For casual rounds (Rule 4.3a). Prototype stage. All video on the page is unedited prototype footage; the product drawing shows design intent.
+> Source: https://blipgolf.com/ . Blip is a golf ball finder from Blip Golf: the Blip Pen marks any ball, and Blip Cam, a MagSafe clip-on camera for iPhone, shows the marked ball as a dot on the phone screen. Prototype stage. All video on the page is unedited prototype footage; the product drawing shows design intent.
 
 Links: Kickstarter (pre-launch) https://www.kickstarter.com/projects/804464871/1559624511 | Indiegogo https://www.indiegogo.com/projects/findaball/blip | TikTok https://www.tiktok.com/@blipgolf | Instagram https://www.instagram.com/blipgolf/
 
 # Walk to the dot.
 Mark it. Snap it. Find it.
-Blip is a golf ball finder: a pen that marks the ball you already play, plus a MagSafe camera for iPhone that shows your marked ball as a dot on screen. For casual rounds (Rule 4.3a).
+Blip is a golf ball finder: a pen that marks the ball you already play, plus a MagSafe camera for iPhone that shows your marked ball as a dot on screen.
 - $79 Early bird
 - $149 Retail
 - 200 Early bird units
@@ -27,7 +27,7 @@ Our real indoor test on the infrared camera, unedited. In the open, the ball sho
 [Video, real prototype footage: Unedited infrared test footage: the same tray with the ball hidden under cut grass. No bright spot stands out yet.]
 
 ## How Blip finds your ball
-Four moves, about as long as a practice swing. For casual rounds (Rule 4.3a).
+Four moves, about as long as a practice swing.
 
 ### Mark it
 Before you tee off, draw your line on the ball with the Blip Pen. Any ball works.
@@ -69,7 +69,6 @@ Where Blip says "testing now", that's the honest answer: it's designed for it, a
 | UV flashlight | Yes | No, night only | No | None | Varies |
 | RF tracking balls | No, special balls | Yes | Close range only | Yes, in every ball | About £26 a ball |
 | Blip | Yes, any marked ball | Designed for it, testing now | Designed for it, testing now | None | $79 early bird |
-Blip is for casual rounds (Rule 4.3a). Under the Rules of Golf, devices like this aren't allowed during a competition round.
 
 ## Blip early bird: $79 for the first 200
 Retail will be $149. The Kickstarter isn't live yet. Get a note the day it opens, so you're in line for one of the 200 early bird units.
@@ -89,7 +88,7 @@ Yes. Blip works with any ball you mark with the Blip Pen. The ball stays exactly
 Blip is designed for daylight, and we are testing that now. The prototype camera already spots a ball in the open. Its flash and capture are synced to the millionth of a second. The Blip Pen ink and a marked ball under leaves in full daylight are still in testing. We will post the results either way.
 
 ### Is a golf ball finder legal in tournaments?
-No. Blip is for casual rounds (Rule 4.3a). Under Rule 4.3a of the Rules of Golf, using equipment like this during a competition round is not allowed.
+No. Under Rule 4.3a of the Rules of Golf, using equipment like this during a competition round is not allowed.
 
 ### How is Blip different from UV flashlights, RF golf balls and ball-finder glasses?
 Blue-tint glasses and filter apps only help when the ball is already visible. UV flashlights only work at night. RF tracking balls need special balls, about £26 each, and only work at close range. Blip works with your own ball and your iPhone. It is designed for daylight and for balls under leaves, which we are testing now.

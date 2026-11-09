@@ -1,6 +1,6 @@
 # Blip Golf
 
-> Blip is a golf ball finder for casual rounds (Rule 4.3a): a marker pen (Blip Pen) plus a MagSafe clip-on camera for iPhone (Blip Cam). You mark the ball you already play before the round; when you lose it, Blip Cam fires a flash your eyes can't see, waits a split second, then looks, so grass and sunlight stay dark and your mark shows up as a dot on the phone screen. Walk to the dot. Prototype stage, built in the open by a solo golfer-founder.
+> Blip is a golf ball finder: a marker pen (Blip Pen) plus a MagSafe clip-on camera for iPhone (Blip Cam). You mark the ball you already play before the round; when you lose it, Blip Cam fires a flash your eyes can't see, waits a split second, then looks, so grass and sunlight stay dark and your mark shows up as a dot on the phone screen. Walk to the dot. Prototype stage, built in the open by a solo golfer-founder.
 
 ## Status (honest)
 - Working: the infrared prototype camera spots a ball in the open.
